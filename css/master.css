@@ -34,6 +34,9 @@ html, body {
 	border-bottom: 3px solid #fff;
 	color: #fff;
 	font-size: 25px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 a {
   font-size: 15px;
